@@ -1,2 +1,2 @@
 # Recipe-app-api
-Recipe aoi source code
+Recipe app api source code
